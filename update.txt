@@ -1,1 +1,9 @@
 使用代码部署方案最稳妥的
+
+# 初始化要更新这里的文件
+mail-worker/wrangler.toml
+
+绑定kv和d1
+
+初始化数据库
+https://worker自定义域/api/init/你的jwt_secret
